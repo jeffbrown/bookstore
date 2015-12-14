@@ -9,6 +9,6 @@ To retrieve books in JSON:
     curl http://localhost:8080/books.json
 
 
-To retrieve books in JSON:
+To retrieve books in XML:
 
-    curl http://localhost:8080/books.json
+    curl http://localhost:8080/books.xml
